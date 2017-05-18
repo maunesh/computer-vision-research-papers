@@ -12,6 +12,7 @@ I will continue adding more papers, whenever I come across something interesting
 - ImageNet: A Large-Scale Hierarchical Image Database:
 
     Website: http://www.image-net.org/
+    
     Paper: http://www.image-net.org/papers/imagenet_cvpr09.pdf
 
 ---------------------------------------------------------------------------------------
@@ -28,6 +29,7 @@ I will continue adding more papers, whenever I come across something interesting
 - Sketch2Photo: Internet Image Montage.
 
     Project Page: http://cg.cs.tsinghua.edu.cn/montage/main.htm
+    
     Paper: http://cg.cs.tsinghua.edu.cn/papers/SiggraphAsia_2009_sketch2photo.pdf
 
 ---------------------------------------------------------------------------------------
@@ -39,6 +41,7 @@ I will continue adding more papers, whenever I come across something interesting
 - BIING: Binarized Normed Gradients for Objectness Estimation    
 
     Project page: http://mmcheng.net/bing/
+    
     Paper: http://mmcheng.net/mftp/Papers/ObjectnessBING.pdf
 
 ---------------------------------------------------------------------------------------
@@ -55,12 +58,14 @@ I will continue adding more papers, whenever I come across something interesting
 - Robust Video Segment Proposals with Painless Occlusion Handling.
 
     Project Page: https://web.engr.oregonstate.edu/~lif/SegTrack2/Occlusion/
+    
     Paper: https://web.engr.oregonstate.edu/~lif/SegTrack2/Occlusion/occlusion_paper.pdf  
 
 ---------------------------------------------------------------------------------------
 - DynamicFusion: Reconstruction and Tracking of Non-rigid Scenes in Real-Time
 
     Project Page: http://grail.cs.washington.edu/projects/dynamicfusion/
+    
     Paper: http://grail.cs.washington.edu/projects/dynamicfusion/papers/DynamicFusion.pdf
 
 ---------------------------------------------------------------------------------------
@@ -107,6 +112,7 @@ I will continue adding more papers, whenever I come across something interesting
 - Unsupervised Learning of Visual Representations using Videos
 
     Paper: http://www.cs.cmu.edu/~xiaolonw/papers/unsupervised_video.pdf
+    
     Project Page: http://www.cs.cmu.edu/~xiaolonw/unsupervise.html
 
 ---------------------------------------------------------------------------------------
@@ -143,6 +149,7 @@ I will continue adding more papers, whenever I come across something interesting
 - Visual Dialog 
 
     Paper: https://arxiv.org/abs/1611.08669
+    
     Project Page: http://visualdialog.org/
 
 ---------------------------------------------------------------------------------------
@@ -159,50 +166,58 @@ I will continue adding more papers, whenever I come across something interesting
 - Object Contour Detection with a Fully Convolutional Encoder-Decoder Network.
 
     Project Page: https://eng.ucmerced.edu/people/jyang44/objectContourDetection.html
+    
     Paper: https://arxiv.org/pdf/1603.04530.pdf
 
 ---------------------------------------------------------------------------------------
-- Photo Realistic Style Transfer
+- Photo Realistic Style Transfer - Recent work in transferring style between images. 
 
-    Recent work in transferring style between images. 
     Paper: https://arxiv.org/abs/1703.07511 
+    
     Code: https://github.com/luanfujun/deep-photo-styletransfer
     
 ---------------------------------------------------------------------------------------
 - Context Encoders: Feature Learning by Inpainting
 
     https://people.eecs.berkeley.edu/~pathak/papers/cvpr16.pdf
+    
     https://arxiv.org/abs/1604.07379
 
 ---------------------------------------------------------------------------------------
 - Generative Adversarial Text-to-Image Synthesis
 
     Project page - https://github.com/reedscot/icml2016
+    
     Paper - http://arxiv.org/abs/1605.05396
 
 ---------------------------------------------------------------------------------------
 - Generative Visual Manipulation on the Natural Image Manifold
 
     Project page - http://people.eecs.berkeley.edu/~junyanz/projects/gvm/
+    
     Paper - https://arxiv.org/pdf/1609.03552v2.pdf
 
 ---------------------------------------------------------------------------------------
 - Improved Techniques for Training GANs
 
     Paper - https://arxiv.org/abs/1606.03498
+    
     Code - https://github.com/openai/improved-gan
 
 ---------------------------------------------------------------------------------------
 - Conditional Image Generation with PixelCNN Decoders
 
     Paper - https://papers.nips.cc/paper/6527-conditional-image-generation-with-pixelcnn-decoders.pdf
+    
     Code - https://github.com/anantzoid/Conditional-PixelCNN-decoder
 
 ---------------------------------------------------------------------------------------
 - Attribute2Image: Conditional Image Generation from Visual Attributes
 
     Paper: https://drive.google.com/file/d/0B9Q4vh7pPrOOdXpVTGZ6a1FlZW8/view
+    
     Project Page: https://sites.google.com/site/attribute2image/
+    
     Presentation Slides: https://docs.google.com/presentation/d/1qOaWY3qMviGRJm2QFMyYN3zgVcXQIEmmVNW56DiT_4I/edit#slide=id.g1d6af2990f_0_95
 
 ---------------------------------------------------------------------------------------
@@ -214,25 +229,30 @@ I will continue adding more papers, whenever I come across something interesting
 - NetVLAD: CNN architecture for weakly supervised place recognition.
 
     paper: https://arxiv.org/abs/1511.07247
+    
     project page: http://www.di.ens.fr/willow/research/netvlad/
 
 ---------------------------------------------------------------------------------------
 - Image-to-Image Translation with Conditional Adversarial Nets.
 
     Project - https://phillipi.github.io/pix2pix/
+    
     Have fun with the demo! - https://affinelayer.com/pixsrv/
+    
     Follow up work: CycleGAN - https://github.com/junyanz/CycleGAN
 
 ---------------------------------------------------------------------------------------
 - StackGAN: Text to Photo-realistic Image Synthesis with Stacked GANs
 
     Paper : https://arxiv.org/pdf/1612.03242v1.pdf
+    
     Github : https://github.com/hanzhanggit/StackGAN
 
 ---------------------------------------------------------------------------------------
 - Neural Architecture Search with Reinforcement Learning
 
     Paper: https://arxiv.org/abs/1611.01578
+    
     OpenReview Discussion: https://openreview.net/forum?id=r1Ue8Hcxg
 
 ---------------------------------------------------------------------------------------
