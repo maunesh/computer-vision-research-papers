@@ -1,6 +1,6 @@
 # computer-vision-research-papers
 
-A list of Computer Vision research papers that I found interesting. (Does not mean I have read all of them... yet...)
+A list of Computer Vision research papers that I found interesting. 
 
 I will continue adding more papers, whenever I come across something interesting. 
 
